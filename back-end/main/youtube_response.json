@@ -1,0 +1,52 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "j7vtoyD6dgdp9qwVy7SLoLdmzpA",
+  "pageInfo": { "totalResults": 1, "resultsPerPage": 5 },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "3tecfjhA3Tgwl39TX2wgPgLL-ik",
+      "id": "UCIIBqC5YOnxpmKYKmbZFW0Q",
+      "snippet": {
+        "title": "Criiptico",
+        "description": "Can I get the anime sauce... please? \ud83c\udf5d",
+        "customUrl": "@criiptico",
+        "publishedAt": "2014-10-19T22:31:27Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/_xGFiBGNW8ywHKzzseOPmuJwE-90AfNSiOyjrzzzsOluDcQKUkRa4CT-pMU_RcxC4J9tvJvf=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/_xGFiBGNW8ywHKzzseOPmuJwE-90AfNSiOyjrzzzsOluDcQKUkRa4CT-pMU_RcxC4J9tvJvf=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/_xGFiBGNW8ywHKzzseOPmuJwE-90AfNSiOyjrzzzsOluDcQKUkRa4CT-pMU_RcxC4J9tvJvf=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Criiptico",
+          "description": "Can I get the anime sauce... please? \ud83c\udf5d"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "LL",
+          "uploads": "UUIIBqC5YOnxpmKYKmbZFW0Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "901",
+        "subscriberCount": "45",
+        "hiddenSubscriberCount": false,
+        "videoCount": "62"
+      }
+    }
+  ]
+}
